@@ -6,10 +6,21 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		2922347E1D8CCB0400724660 /* lab1.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = lab1.py; sourceTree = "<group>"; };
+		2922347F1D8CCBD500724660 /* tictac_final.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = tictac_final.txt; sourceTree = "<group>"; };
+		292234801D8CCBD500724660 /* tictac_multi.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = tictac_multi.txt; sourceTree = "<group>"; };
+		292234811D8CCBD500724660 /* tictac_single.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = tictac_single.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		292234731D8CCA9200724660 = {
 			isa = PBXGroup;
 			children = (
+				2922347F1D8CCBD500724660 /* tictac_final.txt */,
+				292234801D8CCBD500724660 /* tictac_multi.txt */,
+				292234811D8CCBD500724660 /* tictac_single.txt */,
+				2922347E1D8CCB0400724660 /* lab1.py */,
 			);
 			sourceTree = "<group>";
 		};
@@ -22,7 +33,8 @@
 			buildConfigurationList = 2922347B1D8CCA9200724660 /* Build configuration list for PBXLegacyTarget "Lab1" */;
 			buildPhases = (
 			);
-			buildToolPath = /usr/bin/make;
+			buildToolPath = /Users/LuyaoMBP/Library/Enthought/Canopy_64bit/User/bin/python;
+			buildWorkingDirectory = "";
 			dependencies = (
 			);
 			name = Lab1;
