@@ -38,7 +38,7 @@
       selectedLauncherIdentifier = "Xcode.IDEFoundation.Launcher.PosixSpawn"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/LuyaoMBP/Desktop/Lab1"
+      customWorkingDirectory = "/Users/LuyaoMBP/Desktop/Graphic-Lab1"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
